@@ -468,7 +468,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "./prod_output",
+      "plot": "./prod_output2",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "crackedbadusb.step",

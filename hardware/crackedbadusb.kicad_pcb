@@ -125,7 +125,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "./prod_output")
+			(outputdirectory "./prod_output2")
 		)
 	)
 	(net 0 "")

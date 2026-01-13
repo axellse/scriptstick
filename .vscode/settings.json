@@ -3,6 +3,7 @@
         "GOOS": "linux",
         "GOARCH": "arm",
         "GOROOT": "C:\\Users\\ms\\AppData\\Local\\tinygo\\goroot-76b2abfabae991027e5d75048b5fc1f8d3a84cd723961cd299998df2ed47e9d3",
-        "GOFLAGS": "-tags=cortexm,baremetal,linux,arm,rp2040,rp,tinygo,purego,osusergo,math_big_pure_go,gc.conservative,scheduler.cores,serial.usb"
-    }
+        "GOFLAGS": "-tags=cortexm,baremetal,linux,arm,rp2040,rp,pico,tinygo,purego,osusergo,math_big_pure_go,gc.conservative,scheduler.cores,serial.usb"
+    },
+    "go.diagnostic.vulncheck": "Imports"
 }

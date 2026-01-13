@@ -5,9 +5,7 @@ LCSC Shipping Fee,N/A,N/A,Global Direct Standard Line,LCSC,"91,75",N/A,
 PCBs,10,"4,73",Black 2-layer,JLCPCB,"47,3",N/A (Private shopping cart),See production/gerber.zip in the git repo.
 PCB Stencil,1,"108,42",Top+Bottom on same stencil,JLCPCB,"108,42",N/A (Private shopping cart),I assemble myself to minimize costs
 JLCPCB Shipping Fee,N/A,N/A,Global Direct Standard Line,JLCPCB,"179,73",N/A,
-Solder paste,1,"72,86",HXP-603-10g-1PCS,PXAN Top Tier Tool Store/Aliexpress,"72,86",Link,First time using solder paste and stencil
 Aliexpress Shipping Fee,N/A,N/A,Choice shipping (cheapest),Aliexpress,"18,68",N/A,
 ,,,,,,,
-Total (SEK),N/A,N/A,N/A,N/A,"944,92",N/A,Note that Swedish 25% sales tax is included in all prices
-Total (USD): 102.94$,,,,,,,
-"Total (USD, excluding what im putting in): 100$",,,,,,,I went overbudget by 2 dollars which im paying from my own pocket
+Total (SEK),N/A,N/A,N/A,N/A,"872,06",N/A,Note that Swedish 25% sales tax is included in all prices
+Total (USD): 95$,,,,,,,
