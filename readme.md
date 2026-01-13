@@ -19,15 +19,6 @@ I have compiled a couple examples of what the scriptstick could do (theoreticall
 - not sure if mosfets have any/enough capacitance to make this not work but you could build a pretty shitty mp3 player.
 - modify a keyboard with a lora module inside, plug scriptstick into your pc, use your keyboard from kilometers away. (why)
 
-**example for megacorporations:**
-
-1. place the scriptstick in the break room labeled "union meeting files"
-2. wait for someone to take it home and plug it, it appears as a usual usb flash drive.
-3. the scriptstick connects to the employee's neighbour's Ring doorbell which is involuntarily part of the Amazon sidewalk network.
-4. use multiple neighbour's doorbell to predict exact house location of employee.
-5. fire employee.
-## thank you hackclub!
-
 The scriptstick project is sponsored by [Hack club](https://hack.club).
 
 ## blueprint approval stuff
