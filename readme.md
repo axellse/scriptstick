@@ -22,10 +22,23 @@ I have compiled a couple examples of what the scriptstick could do (theoreticall
 The scriptstick project is sponsored by [Hack club](https://hack.club).
 
 ## blueprint approval stuff
-here is the schematic for the project:
-
+### schematic
 <img width="3507" height="2480" alt="bild" src="https://github.com/user-attachments/assets/782f1952-c9c8-4c0c-89cf-4bb6f828bd42" />
 
-here is the pcb inside of kicad:
-
+### pcb
 <img width="1919" height="1031" alt="bild" src="https://github.com/user-attachments/assets/e3a9cba8-02fd-4a04-b5de-d51880dd02eb" />
+
+### BOM
+|Name                   |Quantity|Unit cost (SEK)|Variant                    |Manufacturer/seller    |Cost (SEK)|Link                       |Comment                                                  |
+|-----------------------|--------|---------------|---------------------------|-----------------------|----------|---------------------------|---------------------------------------------------------|
+|USB C to A adapter     |1       |22,17          |Blue A to C                |Elough Store/Aliexpress|22,17     |Link                       |Required as my PC only has USB A and not C               |
+|Components             |3       |134,67         |N/A                        |LCSC                   |404,01    |N/A (Private shopping cart)|See production/lcsc_bom.csv in the git repo              |
+|LCSC Shipping Fee      |N/A     |N/A            |Global Direct Standard Line|LCSC                   |91,75     |N/A                        |                                                         |
+|PCBs                   |10      |4,73           |Black 2-layer              |JLCPCB                 |47,3      |N/A (Private shopping cart)|See production/gerber.zip in the git repo.               |
+|PCB Stencil            |1       |108,42         |Top+Bottom on same stencil |JLCPCB                 |108,42    |N/A (Private shopping cart)|I assemble myself to minimize costs                      |
+|JLCPCB Shipping Fee    |N/A     |N/A            |Global Direct Standard Line|JLCPCB                 |179,73    |N/A                        |                                                         |
+|Aliexpress Shipping Fee|N/A     |N/A            |Choice shipping (cheapest) |Aliexpress             |18,68     |N/A                        |                                                         |
+
+|Total (SEK)            |N/A|N/A   |N/A                        |N/A                    |872,06|N/A                        |Note that Swedish 25% sales tax is included in all prices|
+|-----------------------|---|------|---------------------------|-----------------------|------|---------------------------|---------------------------------------------------------|
+|Total (USD): 95$       |   |      |                           |                       |      |                           |                                                         |
