@@ -1,11 +1,11 @@
 # scriptstick
 ![image of scriptstick](https://github.com/axellse/crackedbadusb/raw/refs/heads/main/media/poster.png)
 
-The scriptstick is a versatile scripting device in the form of a usb flash drive. It is very similar to the traditional badusb, but since it uses Lua instead of DuckyScript, it can do so much more than act as a keyboard. The onboard hardware also always for things like meshtastic. The firmware writen in tinygo.
+The scriptstick is a versatile scripting device in the form of a usb flash drive. It is very similar to the traditional badusb, but since it uses Lua instead of DuckyScript, it can do so much more than act as a keyboard. The onboard hardware also allows for things like meshtastic. The firmware writen in go with tinygo.
 
 ## why?
 
-I made this project because i love the form factor of a usb stick, and i felt that a lot of fun could be had by expanding a bad usb's capabilities to more than just HID. By adding just a couple of hardware components you can make a regular looking usb stick so incredily versatile. Pair this with being able to change function easily through a dip switch and you've got yourself a swiss army knife for computers. (holy phone salesman)
+I made this project because i love the form factor of a usb stick, and i felt that a lot of fun could be had by expanding the capabilities of traditional bad usbs to more than just HID. By adding just a couple of hardware components you can make a regular looking usb stick so incredily versatile. Pair this with being able to change function easily through a dip switch and you've got yourself a swiss army knife for computers. (holy phone salesman)
 
 ## how?
 I have compiled a couple examples of what the scriptstick could do (theoretically, since i dont have the device yet):
