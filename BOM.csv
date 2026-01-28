@@ -1,5 +1,5 @@
 Name,Quantity,Unit cost (SEK),Variant,Manufacturer/seller,Cost (SEK),Link,Comment
-USB C to A adapter,1,"22,17",Blue A to C,Elough Store/Aliexpress,"22,17",Link,Required as my PC only has USB A and not C
+USB C to A adapter,1,"22,17",Blue A to C,Elough Store/Aliexpress,"22,17",https://www.aliexpress.com/item/1005008596972414.html,Required as my PC only has USB A and not C
 Components,3,"134,67",N/A,LCSC,"404,01",N/A (Private shopping cart),See production/lcsc_bom.csv in the git repo
 LCSC Shipping Fee,N/A,N/A,Global Direct Standard Line,LCSC,"91,75",N/A,
 PCBs,10,"4,73",Black 2-layer,JLCPCB,"47,3",N/A (Private shopping cart),See production/gerber.zip in the git repo.
